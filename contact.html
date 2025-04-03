@@ -59,7 +59,9 @@
           <form action="https://api.web3forms.com/submit" method="POST">
               <input type="hidden" name="access_key" value="8f90c88d-752a-4ff1-8ecb-f5ae08997a3b">
               <input type="text" placeholder="Name" name="name" class="lg" required>
+              <input type="tel" placeholder="+254 700 000000" name="Phone" pattern="\+?[0-9\s\-]{7,15}" class="lg" required>
               <input type="email" placeholder="Email" name="email" class="lg" required>
+              <input type="text" placeholder="Location" name="Your Location" class="lg" required>
               <textarea name="message" placeholder="Your Message" class="lg" required></textarea>
               <button class="btn btn-primary" type="submit">Submit</button>
           </form>
