@@ -58,7 +58,7 @@ You can view these and more projects on my [portfolio website](https://shadrack-
 
 For a detailed breakdown of my background, skills, and experience:
 
-- 🔗 [**View Resume**](#) *(Update with actual link)*
+- 🔗 <a href="resume.html"><button class="btn btn-primary" type="button">View My Resume</button></a> *(Update with actual link)*
 - 📥 [**Download Resume**](#) *(PDF format recommended)*
 
 ---
