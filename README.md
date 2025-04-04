@@ -58,7 +58,7 @@ You can view these and more projects on my [portfolio website](https://shadrack-
 
 For a detailed breakdown of my background, skills, and experience:
 
-- 🔗 [[**View Resume**]][portfolio website](https://shadrack-okoth.github.io/Hackathon_plp/) 
+- 🔗 [**View Resume**][portfolio website](https://shadrack-okoth.github.io/Hackathon_plp/) 
 - 📥 [**Download Resume**]([portfolio website](https://shadrack-okoth.github.io/Hackathon_plp/)) 
 
 ---
