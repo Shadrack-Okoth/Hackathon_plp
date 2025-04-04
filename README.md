@@ -70,7 +70,7 @@ I'm currently open to **freelance opportunities**, **collaborations**, or **full
 - **📧 Email**: yourname@example.com
 - **📱 Phone**: +254-7XX-XXX-XXX
 - **🔗 LinkedIn**: [linkedin.com/in/yourprofile](#)
-- **🐦 Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+- **🐦 Twitter**:[ [@yourhandle](https://twitter.com/yourhandle)](https://x.com/afuvya)
 
 ---
 
