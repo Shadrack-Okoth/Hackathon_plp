@@ -67,10 +67,10 @@ For a detailed breakdown of my background, skills, and experience:
 
 I'm currently open to **freelance opportunities**, **collaborations**, or **full-time roles**. Let’s connect!
 
-- **📧 Email**: yourname@example.com
-- **📱 Phone**: +254-7XX-XXX-XXX
-- **🔗 LinkedIn**: [linkedin.com/in/yourprofile](#)
-- **🐦 Twitter**:[ [@yourhandle](https://twitter.com/yourhandle)](https://x.com/afuvya)
+- **📧 Email**: shdrckokoth@gmail.com
+- **📱 Phone**: +254-715-415-671
+- **🔗 LinkedIn**:(https://www.linkedin.com/in/shadrack-okoth/)
+- **🐦 Twitter**:(https://twitter.com/yourhandle)](https://x.com/afuvya)
 
 ---
 
