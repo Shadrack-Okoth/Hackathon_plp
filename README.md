@@ -1,5 +1,5 @@
 # Hackathon_plp
-# 💼 Shadrack Afuvya Okoth – Developer Portfolio
+# 💼 Shadrack Afuvya Okoth – My Portfolio
 
 Welcome to my professional portfolio repository! I’m a passionate **Software Engineer**, **UI/UX Designer**, and **Data Analyst** with a keen eye for design, problem-solving, and building efficient, user-friendly digital experiences.
 
