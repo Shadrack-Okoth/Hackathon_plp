@@ -58,8 +58,8 @@ You can view these and more projects on my [portfolio website](https://shadrack-
 
 For a detailed breakdown of my background, skills, and experience:
 
-- 🔗 <a href="resume.html"><button class="btn btn-primary" type="button">View My Resume</button></a> *(Update with actual link)*
-- 📥 [**Download Resume**](#) *(PDF format recommended)*
+- 🔗 [[**View Resume**]][portfolio website](https://shadrack-okoth.github.io/Hackathon_plp/) 
+- 📥 [**Download Resume**]([portfolio website](https://shadrack-okoth.github.io/Hackathon_plp/)) 
 
 ---
 
